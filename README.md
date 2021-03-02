@@ -1,2 +1,2 @@
-# Creating a Server in Express
-Learn the basics of setting up a server with Express.
+# Creating a Route with Express
+Routes are essential to any web framework. Learn how to create one in Express.
