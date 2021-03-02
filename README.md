@@ -1,2 +1,2 @@
-# Creating a Route with Express
-Routes are essential to any web framework. Learn how to create one in Express.
+# Adding Multiple Routes to the App
+Express Applications will have several (and often many) routes. Let's set another route up and see how it allows us to serve different content, depending on which route a user visits.
