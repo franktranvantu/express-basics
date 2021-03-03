@@ -1,4 +1,2 @@
-# The Request Object
-A closer look at Express's Request object.
-
-Notes: Install body-parser
+# The Response Object
+A closer look at Express's Response object.
