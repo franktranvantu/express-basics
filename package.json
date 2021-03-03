@@ -4,6 +4,7 @@
   "description": "Install Express on your computer.",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
