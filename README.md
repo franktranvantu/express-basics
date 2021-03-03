@@ -1,2 +1,2 @@
-# Adding Multiple Routes to the App
-Express Applications will have several (and often many) routes. Let's set another route up and see how it allows us to serve different content, depending on which route a user visits.
+# Using Pug in Your Express App
+Let's include Pug in the Express App.
