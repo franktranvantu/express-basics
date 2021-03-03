@@ -1,4 +1,2 @@
-# Statelessness, Setting and Reading Cookies
-HTTP is a stateless protocol. Learn more about what that means, and how to save state.
-
-Notes: Install cookie-parser
+# Redirects
+Learn about HTTP redirects and how they can be used in a web application.
