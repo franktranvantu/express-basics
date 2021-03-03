@@ -1,2 +1,4 @@
-# POST Requests
-Learn how to send data to the server using POST requests.
+# The Request Object
+A closer look at Express's Request object.
+
+Notes: Install body-parser
