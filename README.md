@@ -1,2 +1,2 @@
-# Using Logic in Pug
-Pug templates can contain logic you can use to make them more versatile. You can show or hide parts of the page conditionally, or iterate over arrays of data to express tables or lists more concisely.
+# Breaking Your Project’s Templates into Partials
+Let's make your templating more modular and reusable.
