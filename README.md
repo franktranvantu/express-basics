@@ -1,2 +1,2 @@
-# Express’s Response.render Method
-Using Response.render is where we'll get to start putting dynamic data into the Express app!
+# Using Logic in Pug
+Pug templates can contain logic you can use to make them more versatile. You can show or hide parts of the page conditionally, or iterate over arrays of data to express tables or lists more concisely.
