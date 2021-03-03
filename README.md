@@ -1,2 +1,2 @@
-# Breaking Your Project’s Templates into Partials
-Let's make your templating more modular and reusable.
+# POST Requests
+Learn how to send data to the server using POST requests.
