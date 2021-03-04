@@ -11,6 +11,7 @@ app.set('view engine', 'pug');
 
 app.use((req, res, next) => {
   const error = new Error('Oops, something went wrong!');
+  error.status = 500;
   next(error);
 });
 
@@ -52,6 +53,12 @@ app.post('/hello', (req, res) => {
 app.post('/goodbye', (req, res) => {
   res.clearCookie('username');
   res.redirect('/hello');
+});
+
+app.use((err, req, res, next) => {
+  res.locals.error = err;
+  res.status(err.status);
+  res.render('error');
 });
 
 app.listen(3000, () => {
