@@ -1,2 +1,2 @@
-# Clearing Cookies and Redirecting
-Put some of what you've learned about redirects.
+# Middleware Sequence and Routing
+Play with middleware to see how it works.
