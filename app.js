@@ -10,7 +10,8 @@ app.use(cookieParser());
 app.set('view engine', 'pug');
 
 app.use((req, res, next) => {
-  console.log('Hello');
+  const error = new Error('Oops, something went wrong!');
+  next(error);
 });
 
 app.use((req, res, next) => {
