@@ -1,2 +1,2 @@
-# Redirects
-Learn about HTTP redirects and how they can be used in a web application.
+# Clearing Cookies and Redirecting
+Put some of what you've learned about redirects.
